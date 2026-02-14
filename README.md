@@ -2,17 +2,17 @@
 
 ## About Me
 - I'm currently learning Computer Programming at IYF.
-- I'm interested in [data science].
-- I'm looking to collaborate on [beginner-friendly open source projects and analysis projects].
+- I'm interested in data science.
+- I'm looking to collaborate on beginner-friendly open source projects and analysis projects.
 
 ## Skills I'm Building
 - Git and GitHub
-- [Python, "HTML/CSS", "Machine Learning"]
+- Python, HTML/CSS and Data Analysis.
 
 ## Current Projects
-- [Project name](link) — short description
+- To be uploaded soon.
 
 ## How to Reach Me
-- Email: [muriithipurity28@gmil.com]
-- LinkedIn: [your LinkedIn profile link]
+- Email: muriithipurity28@gmail.com
+- LinkedIn:
 "Add my profile README"
